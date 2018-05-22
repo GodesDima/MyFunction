@@ -8,5 +8,6 @@ public static void main(String[] args) {
 		
 	    int rezult = function.getMyFunction(number);
 	    System.out.println("Your rezult " + rezult);
-	}
+	} 
+
 }

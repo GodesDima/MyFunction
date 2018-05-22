@@ -19,7 +19,8 @@ public class MyFunction {
 			}
 			return number;
 			}
-		
+		 
+	        
 		}
 	}
 
